@@ -1,2 +1,2 @@
 # webpractice
-web newbie start studying web
+web newbie starts studying web
