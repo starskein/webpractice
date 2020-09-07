@@ -1,0 +1,6 @@
+for nodejs fileread test
+
+abcdefghijk
+가나다라마바사
+ChickenPizza
+치킨피자탕수육
